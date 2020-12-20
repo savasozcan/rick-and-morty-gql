@@ -1,0 +1,1 @@
+{"ast":null,"code":"export * from './GET_CHARACTER';\nexport * from './GET_CHARACTERS';","map":{"version":3,"sources":["/Users/savasozcan/Documents/iyzico/rick-and-morty/src/queries/index.js"],"names":[],"mappings":"AAAA,cAAc,iBAAd;AACA,cAAc,kBAAd","sourcesContent":["export * from './GET_CHARACTER';\nexport * from './GET_CHARACTERS';\n"]},"metadata":{},"sourceType":"module"}
